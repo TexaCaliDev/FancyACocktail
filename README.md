@@ -36,7 +36,7 @@ It will also list the ingredients/recipe for the cocktail of their choice. or a 
 3. Click the response to get extra information about the cocktail 
 
 #### Credits
-*created by Benjamin Roth
-*The website for the API is [Here](https://www.thecocktaildb.com/api.php)
-*I used "hello epics' to help organize my trello
-*I referenced multiple google documents to help set up the skeleton of my trello
+* created by Benjamin Roth
+* The website for the API is [Here](https://www.thecocktaildb.com/api.php)
+* I used "hello epics' to help organize my trello
+* I referenced multiple google documents to help set up the skeleton of my trello
