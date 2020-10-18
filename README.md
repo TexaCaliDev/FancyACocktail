@@ -29,3 +29,8 @@ It will also list the ingredients/recipe for the cocktail of their choice. or a 
     * a witty text
     * a picture
     * and a button that leads them back to landing page
+
+####  How to get started
+1. Decide if you want to find a drink, if you don't want to find a drink, or if you drink too much
+2. once decided, if you want to find a drink, decide on the category you'd like to explore
+3. click the response to get extra information about the cocktail 
