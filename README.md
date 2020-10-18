@@ -1,6 +1,6 @@
 # Fancy A Cocktail
 #### by: Benjamin Roth
-Follow my progress on my [trello](https://trello.com/b/NGPGvRZF/fancy-a-cocktail)
+Follow my progress on [trello](https://trello.com/b/NGPGvRZF/fancy-a-cocktail)
 --- 
 This project is my week one Project for General Assembly. The purpose of this app is to....
 
