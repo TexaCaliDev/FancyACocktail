@@ -16,7 +16,7 @@ It will also list the ingredients/recipe for the cocktail of their choice. or a 
 ```https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i={cocktailID} ```
 
 #### What To Expect 
-1. upon landing on 'Fancy A Cocktail' , The user will be greeted with a prompt that reads 
+1. Upon landing on 'Fancy A Cocktail' , The user will be greeted with a prompt that reads 
 'Whats your fancy?' along with three buttons, and an image 
     * one button will read ' Sure! I'd love one', and will lead to the home page
     * One button will read ' I think i'll pass' and will lead you to 'another day' page
@@ -25,12 +25,18 @@ It will also list the ingredients/recipe for the cocktail of their choice. or a 
 3. If they get redirected to the home page, they will be greeted with a prompt that reads 'whats your fancy?' and four buttons
     * each button , when clicked , will show a input field and a button related to the criteria of the button clicked
         if the result is clicked, it will alert either a description or ingredients of said beverage
-3. if they land on the 'not today' page, they will be greeted with:
+3. If they land on the 'not today' page, they will be greeted with:
     * a witty text
     * a picture
     * and a button that leads them back to landing page
 
 ####  How to get started
 1. Decide if you want to find a drink, if you don't want to find a drink, or if you drink too much
-2. once decided, if you want to find a drink, decide on the category you'd like to explore
-3. click the response to get extra information about the cocktail 
+2. Once decided, if you want to find a drink, decide on the category you'd like to explore
+3. Click the response to get extra information about the cocktail 
+
+#### Credits
+ created by Benjamin Roth
+The website for the API is [Here](https://www.thecocktaildb.com/api.php)
+I used "hello epics' to help organize my trello
+i referenced multiple google documents to help set up the skeleton of my trello
