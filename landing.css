@@ -1,0 +1,46 @@
+body {
+    border: 2px solid red;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: center;
+    height: 620px;
+    background-color: #019964;
+}
+
+.headingContainer {
+    border: 2px solid orange;
+    text-align: center;
+    height: 80px;
+}
+
+.heading {
+    border: 2px solid yellow;
+    background-color: black;
+    color: papayawhip;
+}
+
+span {
+    font-family: 'Great Vibes', cursive;
+}
+
+.buttonContainer1 {
+    border: 2px solid green;
+    margin-top: -107px;
+    margin-bottom: 107px;
+}
+
+.button1 {
+    margin: 80px 40px;
+    height: 50px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    font-family: 'Cookie', cursive;
+}
+
+
+
+.imageContainer1 {
+    border: 2px solid blue;
+    text-align: center;
+    margin: -110px 0px 130px 0px;
+}
