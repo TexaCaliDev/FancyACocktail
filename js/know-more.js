@@ -59,7 +59,7 @@ const getScotch = () => {
         let infoDiv = document.createElement('div')
          
         infoDiv.innerText = spiritInfo
-        /
+        
         scotchInfo.append(infoDiv)  
         scotchInfo.style.backgroundColor = "rgba(255,255,255,.75)"
         scotchInfo.style.fontSize = "20px"
