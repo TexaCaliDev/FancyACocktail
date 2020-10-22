@@ -45,7 +45,7 @@ const getRandomCocktail = (event) => {
 
       for (let i = 0; i < ingredients.length;i++){
          // console.log(ingredients[i])
-         if (ingredients[i] !== null  ){
+         if (ingredients[i] !== null && ingredients[i] !== '::marker' ){
             let newli = document.createElement('li') //create new li..
             newli.innerText = `${measurments[i]} ${ingredients[i]}`//insert all this into the new div text
             ingredientsContainer.append(newli) //put the new div into the container you want to  show onscreen  
