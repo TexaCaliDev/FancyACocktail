@@ -6,27 +6,6 @@ body {
     background-size:cover;
     justify-content: center;
 }
-.header {
-    border: 2px solid blueviolet;
-    background-color: whitesmoke;
-    /* display: grid; */
-    height: 70px;
-    
-}
-
-.headerText{
-    border: 2px solid blueviolet;
-    /* background-color: cyan; */
-
-}
-
-.header-text {
-    border: 2px solid blueviolet;
-    /* background-color: darkblue; */
-    color:black;
-    text-align: center;
-
-}
 
 .buttonContainer {
     
@@ -42,6 +21,10 @@ body {
     outline: none;
     /* background-color: orange; */
 
+}
+
+.button:hover {
+    color: red;
 }
 
 .imageContainer{
