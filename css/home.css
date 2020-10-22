@@ -1,3 +1,89 @@
+body {
+    
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-image: url('https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940') ;
+    background-size:cover;
+    justify-content: center;
+}
+.header {
+    border: 2px solid blueviolet;
+    background-color: whitesmoke;
+    /* display: grid; */
+    height: 70px;
+    
+}
+
+.headerText{
+    border: 2px solid blueviolet;
+    /* background-color: cyan; */
+
+}
+
+.header-text {
+    border: 2px solid blueviolet;
+    /* background-color: darkblue; */
+    color:black;
+    text-align: center;
+
+}
+
+.buttonContainer {
+    
+    display: flex;
+    /* background-color: yellowgreen; */
+    height: 25px;
+    justify-content: space-around;
+
+}
+
+.button {
+    border: 2px solid blueviolet;
+    outline: none;
+    /* background-color: orange; */
+
+}
+
+.imageContainer{
+    
+    width:180px;
+    /* background-color: orchid; */
+    display: flex;
+    justify-self: center;
+    margin-top: -55px;
+    margin-bottom: 15px;
+
+}
+.nameContainer {
+
+    font-size: 40px;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    background-color:whitesmoke;
+
+}
+
+.ingredientsContainer {
+    margin-top: -50px;
+    margin-bottom: 25px;
+    background-color: whitesmoke;
+    
+
+}
+
+
+.instructionsContainer {
+    margin-bottom: 15px;
+    
+    font-size: large;
+    background-color:whitesmoke;
+    max-width: 530px;
+    padding: 10px;
+  
+
+}
+
 img {
     border: 2px solid blueviolet;
     height: 175px;
