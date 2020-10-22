@@ -1,0 +1,23 @@
+body {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-image: url('https://images.pexels.com/photos/1128259/pexels-photo-1128259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
+    background-size: cover;
+    height: 400px;
+    
+}
+
+.headerContainer {
+    display:flex;
+    justify-content: center;
+    color:black;
+    font-size: 40px;
+    background-color: rgba(255,255,255);
+    opacity: 50%;
+    border-radius: 5px;
+}
+
+.backButton {
+    display: flex;
+    justify-content: center;
+}
