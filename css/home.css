@@ -17,58 +17,46 @@ body {
 }
 
 .button {
-    border: 2px solid blueviolet;
-    outline: none;
-    /* background-color: orange; */
-
+    font-size: larger;
+   
 }
 
 .button:hover {
-    color: red;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
 }
 
 .imageContainer{
-    
-    width:180px;
-    /* background-color: orchid; */
+    width:175px;
     display: flex;
     justify-self: center;
     margin-top: -55px;
     margin-bottom: 15px;
-
 }
 .nameContainer {
-
     font-size: 40px;
     display: flex;
     height: 50px;
     justify-content: center;
-    background-color:whitesmoke;
 
 }
 
 .ingredientsContainer {
     margin-top: -50px;
     margin-bottom: 25px;
-    background-color: whitesmoke;
-    
-
 }
 
 
 .instructionsContainer {
     margin-bottom: 15px;
-    
     font-size: large;
-    background-color:whitesmoke;
     max-width: 530px;
     padding: 10px;
-  
-
+    font-size: 25px;
 }
 
 img {
-    border: 2px solid blueviolet;
     height: 175px;
     width: 175px;
 }

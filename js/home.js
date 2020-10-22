@@ -44,23 +44,27 @@ const getRandomCocktail = (event) => {
       ]
 
       for (let i = 0; i < ingredients.length;i++){
-         // console.log(ingredients[i])
          if (ingredients[i] !== null && ingredients[i] !== '::marker' ){
-            let newli = document.createElement('li') //create new li..
-            newli.innerText = `${measurments[i]} ${ingredients[i]}`//insert all this into the new div text
-            ingredientsContainer.append(newli) //put the new div into the container you want to  show onscreen  
+            let newli = document.createElement('li') 
+            newli.innerText = `${measurments[i]} ${ingredients[i]}`
+            ingredientsContainer.append(newli) 
+            newli.style.fontSize = "25px"
          }
       } 
       
       nameContainer.innerText = cocktailName
-      imageContainer.innerHTML = `<img src="${cocktail.strDrinkThumb}">` // insert cocktail image into image container
+      imageContainer.innerHTML = `<img src="${cocktail.strDrinkThumb}">`
       instructionsContainer.innerText = instructions
+      
+      ingredientsContainer.style.backgroundColor = "white"
+      nameContainer.style.backgroundColor = 'white'
+      imageContainer.style.border = '2px solid white'
+      instructionsContainer.style.backgroundColor = "white"
+      
    })
 
 }
- const getSpirit = () => {
-
- }
 
 
-document.querySelector('#randomDrink').addEventListener('click', getRandomCocktail); //add click listener then getRandomCocktail
+
+document.querySelector('#randomDrink').addEventListener('click', getRandomCocktail); 
