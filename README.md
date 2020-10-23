@@ -1,6 +1,8 @@
 # Fancy A Cocktail
 ### by: Benjamin Roth
 Follow my progress on [Trello](https://trello.com/b/NGPGvRZF/fancy-a-cocktail)
+
+You Can find a copy of my website [Here](https://texacalidev.github.io/FancyACocktail/index.html)
 --- 
 This project is my week one Project for General Assembly. The purpose of this app is to let the user choose a cocktail for their mood. 
 It will also list the ingredients/recipe for the cocktail that is generated randomly.
