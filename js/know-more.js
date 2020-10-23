@@ -39,7 +39,7 @@ const getWhiskey = () => {
 const getScotch = () => {
     axios.get(SCOTCH_URL)
     .then(response => {
-        console.log('fuck yourself')
+        
         
         let spirit = response.data.ingredients[0]
         let spiritInfo = spirit.strDescription
@@ -70,7 +70,7 @@ const getScotch = () => {
 const getVodka = () => {
     axios.get(VODKA_URL)
     .then(response => {
-        console.log('fuck yourself')
+        
         
         let spirit = response.data.ingredients[0]
         let spiritInfo = spirit.strDescription
@@ -101,7 +101,7 @@ const getVodka = () => {
 const getGin = () => {
     axios.get(GIN_URL)
     .then(response => {
-        console.log('fuck yourself')
+        
         
         let spirit = response.data.ingredients[0]
         let spiritInfo = spirit.strDescription
@@ -132,7 +132,7 @@ const getGin = () => {
 const getTequila = () => {
 axios.get(TEQUILA_URL)
     .then(response => {
-        console.log('fuck yourself')
+        
         
         let spirit = response.data.ingredients[0]
         let spiritInfo = spirit.strDescription
