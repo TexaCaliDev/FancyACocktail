@@ -43,7 +43,7 @@ It will also list the ingredients/recipe for the cocktail that is generated rand
 ![](images/knowMoreWireFrame.Png)
 
 #### End Result
-![](images/knowMore.jpeg)
+![](images/KnowPage.png)
 
 #### Credits
 * Created by Benjamin Roth
