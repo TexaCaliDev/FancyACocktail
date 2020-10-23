@@ -8,12 +8,14 @@ It will also list the ingredients/recipe for the cocktail that is generated rand
 
 #### Api Snippets
 
-! [code Snippet 1] (/home/benjamin/sei-ga/unit1/projects/FancyACocktail/images/codeSnippet1.png)
-! [code snippet 2] (/home/benjamin/sei-ga/unit1/projects/FancyACocktail/images/codeSnippet2.png)
+![](images/codeSnippet1.png)
+
+
+![](images/codeSnippet2.png)
 
  #### Languages Used
 
-! [languages used] (/home/benjamin/sei-ga/unit1/projects/FancyACocktail/images/LangLogo.jpg)
+![](images/LangLogo.jpg)
 
 #### What To Expect 
 1. Upon landing on 'Fancy A Cocktail' , The user will be greeted with a prompt that reads 
@@ -38,7 +40,7 @@ It will also list the ingredients/recipe for the cocktail that is generated rand
 
 #### WireFrames
 
-![WireFrames](knowMoreWireFrame.Png)
+![](images/knowMoreWireFrame.Png)
 
 #### End Result
 ![](images/knowMorePage.jpeg)
