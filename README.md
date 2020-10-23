@@ -38,10 +38,10 @@ It will also list the ingredients/recipe for the cocktail that is generated rand
 
 #### WireFrames
 
-! [WireFrames] (/home/benjamin/sei-ga/unit1/projects/FancyACocktail/images/knowMoreWireFrame.Png)
+![WireFrames](knowMoreWireFrame.Png)
 
 #### End Result
-! [homePage] (/home/benjamin/sei-ga/unit1/projects/FancyACocktail/images/homeImage.jpeg)
+![](images/knowMorePage.jpeg)
 
 #### Credits
 * Created by Benjamin Roth
